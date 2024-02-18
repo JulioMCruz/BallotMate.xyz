@@ -1,5 +1,4 @@
-# Aleo Voting System
-
+# eZElection
 ## How to use
 
 
